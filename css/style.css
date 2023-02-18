@@ -80,8 +80,7 @@ img{
 .text{
   align-self: center;
   justify-self: center;
-  max-height: 40%;
-  overflow: auto;
+  overflow: scroll;
 }
 
   nav{
